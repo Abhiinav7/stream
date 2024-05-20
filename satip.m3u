@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ChannelS.bd",Channel S (1080p)
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:0,1. SAUDI ch for Quran H
 udp://239.10.20.1:1234?stype=1&onid=702&tsid=26&svcid=5601
 #EXTINF:0,2. SAUDI Ch for Sunnah 
